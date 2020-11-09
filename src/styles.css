@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.badge-primary {
+  background: lightseagreen;
+  font-family: sans-serif;
+  margin: 25px;
+}
+
+.badge-warning {
+  background: yellow;
+  font-family: sans-serif;
+  margin: 25px;
+}
